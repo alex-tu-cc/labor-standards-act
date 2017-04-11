@@ -50,6 +50,7 @@ JB :
   # NOTE: When in localhost, your site will run from root "/" regardless of BASE_PATH
   #
   BASE_PATH : "labor-standards-act"
+  base_url : "/labor-standards-act"
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
